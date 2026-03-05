@@ -89,8 +89,14 @@ If you see an error like `ImportError: DLL load failed while importing _extra` o
 
 1. Download dataset from kaggle : https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text
 
-2. cd cheqmate_engine
+2. Create a dataset folder in cheqmate_engine and add the dataset AI_Human.csv 
 
-3. python training/train_ai_model.py
+3. Create a model foler in cheqmate_engine
 
-4. Run the code normally
+4. see the training folder exist in cheqmate_engine and inside that train_ai_model.py is there
+
+5. cd cheqmate_engine
+
+6. python training/train_ai_model.py
+
+7. Run the code normally
