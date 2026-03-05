@@ -95,7 +95,7 @@ class DocumentProcessor:
         
         return thresh
 
-if __name__ == "__main__":
+if __name__ == "__main__":  
     # Test
     proc = DocumentProcessor()
     # print(proc.extract_text("test.pdf"))

@@ -84,3 +84,13 @@ If you see an error like `ImportError: DLL load failed while importing _extra` o
 > [!NOTE]
 > Make sure the URL in your Moodle plugin settings matches the address where this engine is running.
 
+
+## Train Moodle
+
+1. Download dataset from kaggle : https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text
+
+2. cd cheqmate_engine
+
+3. python training/train_ai_model.py
+
+4. Run the code normally
