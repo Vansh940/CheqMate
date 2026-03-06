@@ -1,5 +1,4 @@
 cheqmate_engine/dataset/
-cheqmate_engine/model/
 __pycache__/
 *.pyc
 cheqmate_engine/temp/
