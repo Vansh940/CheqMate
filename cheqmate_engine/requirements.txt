@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+python-docx
+pytesseract
+Pillow
+opencv-python-headless
+numpy
+scikit-learn
+nltk
+langchain-text-splitters
+joblib
+pandas
+scipy
